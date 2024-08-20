@@ -9,10 +9,10 @@ This project implements an image depth estimation system using stereo matching t
 - **Cosine Similarity Matching: Further improves the accuracy of disparity maps by treating windows as vectors and calculating cosine similarity between them.
   
 ## Requirements
-- **Python 3.8 or later
-- **Required Python packages:
-- **opencv-python
-- **numpy
+- Python 3.8 or later
+- Required Python packages:
+- opencv-python
+- numpy
 
 ## Installation
 1. **Clone the Repository**:
