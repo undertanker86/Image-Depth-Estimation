@@ -23,4 +23,4 @@ This project implements an image depth estimation system using stereo matching t
 
 ## Result
 The result in Aloe Datasets
-![Alt text](https://img.upanh.tv/2024/08/20/img11.pnghttps://img.upanh.tv/2024/08/20/ing2.png)
+![Alt text](https://img.upanh.tv/2024/08/20/ing2b6d7a0a46fe9dc61.png)
